@@ -1,0 +1,5 @@
+git init
+git remote add origin <URL de tu repositorio en GitHub>
+git add .
+git commit -m "primer commit desde CodeSandbox"
+git push origin main
